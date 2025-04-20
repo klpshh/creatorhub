@@ -1,0 +1,11 @@
+.testimonials {
+  padding: 4rem 2rem;
+  background-color:#1c1c1c;
+  text-align: center;
+}
+
+.testimonial {
+  margin: 1rem auto;
+  max-width: 500px;
+  font-style: italic;
+}
